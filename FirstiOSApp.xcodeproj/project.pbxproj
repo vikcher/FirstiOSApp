@@ -388,6 +388,7 @@
 				01433D991C41CE0E00E8871D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		01433D9A1C41CE0E00E8871D /* Build configuration list for PBXNativeTarget "FirstiOSAppTests" */ = {
 			isa = XCConfigurationList;
@@ -396,6 +397,7 @@
 				01433D9C1C41CE0E00E8871D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
